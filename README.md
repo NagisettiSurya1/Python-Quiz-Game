@@ -26,9 +26,10 @@ Follow these instructions to run the project on your local machine:
 
 ### Clone the Repository
 
-git clone
+git clone https://github.com/NagisettiSurya1/Python-Quiz-Game
 
-cd
+cd Python-Quiz-Game
 
 ### Compile and Run
+
 
